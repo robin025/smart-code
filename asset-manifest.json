@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-code/static/css/main.02e94556.css",
+    "main.js": "/smart-code/static/js/main.8e16934b.js",
+    "static/js/787.af40c580.chunk.js": "/smart-code/static/js/787.af40c580.chunk.js",
+    "index.html": "/smart-code/index.html",
+    "main.02e94556.css.map": "/smart-code/static/css/main.02e94556.css.map",
+    "main.8e16934b.js.map": "/smart-code/static/js/main.8e16934b.js.map",
+    "787.af40c580.chunk.js.map": "/smart-code/static/js/787.af40c580.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e94556.css",
+    "static/js/main.8e16934b.js"
+  ]
+}
